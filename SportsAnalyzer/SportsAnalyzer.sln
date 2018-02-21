@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsAnalyzer.Web", "SportsAnalyzer.Web\SportsAnalyzer.Web.csproj", "{CCBCA94B-2B71-451D-B808-B12FA83FCCA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsAnalyzer.Web", "SportsAnalyzer.Web\SportsAnalyzer.Web.csproj", "{CCBCA94B-2B71-451D-B808-B12FA83FCCA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsAnalyzer.Data", "SportsAnalyzer.Data\SportsAnalyzer.Data.csproj", "{661DD72C-FB93-42A1-89BB-1B31F93E72E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsAnalyzer.Data", "SportsAnalyzer.Data\SportsAnalyzer.Data.csproj", "{661DD72C-FB93-42A1-89BB-1B31F93E72E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsAnalyzer.Services", "SportsAnalyzer.Services\SportsAnalyzer.Services.csproj", "{6AB323E0-68BC-4E86-87C4-EE661DAE7DE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsAnalyzer.Services", "SportsAnalyzer.Services\SportsAnalyzer.Services.csproj", "{6AB323E0-68BC-4E86-87C4-EE661DAE7DE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsAnalyzer.Data.Common", "SportsAnalyzer.Data.Common\SportsAnalyzer.Data.Common.csproj", "{ED7F7807-C4B6-4E8A-B9B0-E7915FCA00A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsAnalyzer.Data.Common", "SportsAnalyzer.Data.Common\SportsAnalyzer.Data.Common.csproj", "{ED7F7807-C4B6-4E8A-B9B0-E7915FCA00A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsAnalyzer.Data.Models", "SportsAnalyzer.Data.Models\SportsAnalyzer.Data.Models.csproj", "{7DED6893-0E66-45C4-98BD-433CD037BB09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsAnalyzer.Data.Models", "SportsAnalyzer.Data.Models\SportsAnalyzer.Data.Models.csproj", "{7DED6893-0E66-45C4-98BD-433CD037BB09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{B0C06C27-DDF2-4FCC-A3D9-F752E8E1E649}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
