@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using SportsAnalyzer.Web.Models;
+using SportsAnalyzer.Data.Models;
 using SportsAnalyzer.Web.Models.ManageViewModels;
 using SportsAnalyzer.Web.Services;
 

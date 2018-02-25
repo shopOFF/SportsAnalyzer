@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using SportsAnalyzer.Web.Models;
+using SportsAnalyzer.Data.Models;
 
-namespace SportsAnalyzer.Web.Data
+namespace SportsAnalyzer.Data
 {
     public class SportsAnalyzerDbContext : IdentityDbContext<ApplicationUser>
     {

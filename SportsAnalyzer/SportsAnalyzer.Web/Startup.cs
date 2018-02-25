@@ -8,9 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using SportsAnalyzer.Web.Data;
-using SportsAnalyzer.Web.Models;
 using SportsAnalyzer.Web.Services;
+using SportsAnalyzer.Data;
+using SportsAnalyzer.Data.Models;
 
 namespace SportsAnalyzer.Web
 {
