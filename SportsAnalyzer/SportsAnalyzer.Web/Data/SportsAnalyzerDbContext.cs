@@ -8,9 +8,9 @@ using SportsAnalyzer.Web.Models;
 
 namespace SportsAnalyzer.Web.Data
 {
-    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
+    public class SportsAnalyzerDbContext : IdentityDbContext<ApplicationUser>
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public SportsAnalyzerDbContext(DbContextOptions<SportsAnalyzerDbContext> options)
             : base(options)
         {
         }
