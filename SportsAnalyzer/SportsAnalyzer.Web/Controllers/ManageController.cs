@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using SportsAnalyzer.Data.Models;
-using SportsAnalyzer.Web.Models.ManageViewModels;
+using SportsAnalyzer.Web.ViewModels.ManageViewModels;
 using SportsAnalyzer.Web.Services;
 
 namespace SportsAnalyzer.Web.Controllers

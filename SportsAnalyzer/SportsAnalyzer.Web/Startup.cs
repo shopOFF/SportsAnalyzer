@@ -11,6 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using SportsAnalyzer.Web.Services;
 using SportsAnalyzer.Data;
 using SportsAnalyzer.Data.Models;
+using SportsAnalyzer.Services.Contracts;
+using SportsAnalyzer.Services;
 
 namespace SportsAnalyzer.Web
 {
@@ -35,6 +37,7 @@ namespace SportsAnalyzer.Web
 
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
+            services.AddTransient<IValidatorService, ValidatorService>();
 
             services.AddMvc();
         }

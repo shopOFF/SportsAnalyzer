@@ -1,6 +1,6 @@
 using System;
 
-namespace SportsAnalyzer.Web.Models
+namespace SportsAnalyzer.Web.ViewModels
 {
     public class ErrorViewModel
     {

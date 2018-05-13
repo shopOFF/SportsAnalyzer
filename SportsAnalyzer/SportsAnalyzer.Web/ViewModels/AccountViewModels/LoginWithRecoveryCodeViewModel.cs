@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SportsAnalyzer.Web.Models.AccountViewModels
+namespace SportsAnalyzer.Web.ViewModels.AccountViewModels
 {
     public class LoginWithRecoveryCodeViewModel
     {
